@@ -30,5 +30,6 @@ I'm hoping that I won't procrastinate as much so that I can stay mentally health
 
 ---
 Enroll for CS50x via edX: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+
 CS50x OpenCourseWare 2022: https://cs50.harvard.edu/x/2022/
 This course was taken at the 2nd half of the year.
