@@ -27,3 +27,8 @@ In a month or two from the time of writing this, my summer break officially ends
 I found this course quite a bit too late so I'll have to manage my time between school and this course.
 My school... I'm not really sure if they're considerate when it comes to deadlines or it's just because of my procrastination...
 I'm hoping that I won't procrastinate as much so that I can stay mentally healthy :). [Wish me good luck!]
+
+---
+Enroll for CS50x via edX: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+CS50x OpenCourseWare 2022: https://cs50.harvard.edu/x/2022/
+This course was taken at the 2nd half of the year.
