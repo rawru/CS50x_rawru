@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Comparing bubble sort and selection sort, in the best case scenario (an already sorted array), bubble sort takes less time. But both takes similar time in a worst case scenario. Hence we only need to see which of the programs has significant changes in completion time. While bubble sort is fast for sorted arrays, it is slow for large randomized/reversed arrays.
+
+sort2 uses: Merge sort
+
+How do you know?: Due to how merge sort works, be it sorted, reversed, or randomized, the time it takes to sort the array would take similar amounts of time.
+
+sort3 uses: Selection sort
+
+How do you know?: Comparing bubble sort and selection sort, in the best case scenario (an already sorted array), bubble sort takes less time. But both takes similar time in a worst case scenario. Hence we only need to see which of the programs has significant changes in completion time. The time it takes to sort large arrays remain similar whether it's sorted or not.
